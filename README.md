@@ -1,14 +1,9 @@
-# Expo Router Example
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+# Template React Native
+<p>
+ Esse é um template de react-native utilizando Expo, roteamento com expo-router e estilização com NativeWind.
+</p>
+## Tecnologias
+- [Expo](https://docs.expo.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Expo-router](https://expo.github.io/router/docs/)
+- [NativeWind](https://www.nativewind.dev/)
